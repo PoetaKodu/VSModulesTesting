@@ -15,7 +15,7 @@ Some projects used for reporting errors in Visual Studio C++20 modules implement
 - [**NlohmannJson**](NlohmannJson)  
 **Brief description:** [nlohmann/json](https://github.com/nlohmann/json) (downloaded `include` folder at tag `v3.10.5`) causes ICE when imported with C++20 modules. Error info: `error MSB6006: "CL.exe" exited with code -1073741571`  
 **Tested on**: Visual Studio 2022 17.2.0 Preview 5.0  
-**Ticket**: [Developer Community Link](#)  
+**Ticket**: [Developer Community Link](https://developercommunity.visualstudio.com/t/C20-Modules---ICE-when-importing-nlohm/10024182)  
 **Overview:**
 ![NlohmannJson](Res/NlohmannJson.png)
 
